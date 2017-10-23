@@ -1,0 +1,14 @@
+h1 {
+		text-align:center;
+		font-family: 'Nosifer', cursive;
+		font-size:60px;
+    }
+
+.column{
+    float: left;
+    width: 350px;
+    height:300px;
+    text-align: center;
+    padding: 30px;
+
+}

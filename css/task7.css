@@ -4,3 +4,9 @@ h1 {
 		font-size:60px;
     }
 
+.foot {
+	background-color: green;
+	padding: 30px;
+	color: white;
+	font-family: 'Nosifer', cursive;
+}
